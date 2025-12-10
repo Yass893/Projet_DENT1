@@ -88,3 +88,5 @@ Projet réalisé par BIA Yasser
 Dans le cadre d’un exercice d’analyse de données et d’apprentissage Power BI & Python.
 
 🎉 Merci !
+<img width="1153" height="621" alt="image" src="https://github.com/user-attachments/assets/8807bd7b-31db-4c2b-9167-bc6555f3915b" />
+
